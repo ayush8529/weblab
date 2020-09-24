@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+  body{
+    background-image: url("https://www.aquaplusindia.net/theme3/img/background-deault.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+  background-size: cover;
+  margin-left: 200px;
+  margin-right: 200px;
+  }
+table, th, td {
+  border: 2px solid black;
+  border-collapse: collapse;
+
+}
+th, td {
+  padding: 15px;
+  text-align: center;
+  color:  black;
+  font-size: 1.7em;
+
+}
+
+h1{
+  color: thistle;
+  text-align: center;
+  font-size: 3em;
+  background-color:  seagreen;
+
+}
+p{
+  color:  lime;
+  text-align: center;
+  font-size: 2em;
+  background-color:  navy;
+
+}
+</style>
+</head>
+<body>
+
+<h1>Ayush Gupta Roll No.1906143</h1>
+<p>I'm a student at National Institute of Technology Patna pursuing Computer Science Engineering.
+I'm passionate about learning new skills.I'm a learner and explorer.<br >Email-ayushg.ug19.cs@nitp.ac.in</br></p>
+<table style="width:100%">
+  <caption></caption>
+  <tr>
+    <th colspan="2">Educational Qualifications</th>
+
+  </tr>
+  <tr>
+    <th>Education</th>
+    <th>Percentage/CGPA</th>
+  </tr>
+  <tr>
+    <td>B.tech(3rd sem)</td>
+    <td>8.33 CGPA</td>
+  </tr>
+  <tr>
+    <td>Intermediate</td>
+    <td>86.8 %age</td>
+  </tr>
+  <tr>
+    <td>Matriculation</td>
+    <td>9.8 CGPA</td>
+  </tr>
+</table>
+
+</body>
+</html>
